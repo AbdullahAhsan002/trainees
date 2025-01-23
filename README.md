@@ -1,2 +1,4 @@
 # trainees
-names of trinees
+JACK
+KING
+GREY
